@@ -1,1 +1,1 @@
-https://codeberg.org/twentys2/Scripts/raw/branch/main/Grow-A-Garden
+loadstring(game:HttpGet("https://codeberg.org/twentys2/Scripts/raw/branch/main/Grow-A-Garden"))()
